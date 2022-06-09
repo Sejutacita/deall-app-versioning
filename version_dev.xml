@@ -9,7 +9,7 @@
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
-            <enclosure url="https://play.google.com/store/apps/details?id=id.sejutacita" sparkle:version="1.2.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=id.sejutacita" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
     <channel>
@@ -21,7 +21,7 @@
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
-            <enclosure url="https://play.google.com/store/apps/details?id=id.sejutacita" sparkle:version="1.1.9" sparkle:os="ios" />
+            <enclosure url="https://play.google.com/store/apps/details?id=id.sejutacita" sparkle:version="1.0.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>

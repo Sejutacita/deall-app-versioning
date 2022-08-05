@@ -5,10 +5,12 @@
         <item>
             <title>Version 1.0.0</title>
             <description>desc</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>      
+            <!-- add these lines to force users updating their app. -->
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
+            <!-- add these lines to force users updating their app. -->
             <enclosure url="https://play.google.com/store/apps/details?id=com.usedeall" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
@@ -18,6 +20,11 @@
             <title>Version 1.0.0</title>
             <description>desc</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <!-- add these lines to force users updating their app. -->
+            <sparkle:tags>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <!-- add these lines to force users updating their app. -->
             <enclosure url="https://apps.apple.com/us/app/deall/id1624585434" sparkle:version="1.0.0" sparkle:os="ios" />
         </item>
     </channel>
